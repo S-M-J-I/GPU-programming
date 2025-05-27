@@ -22,7 +22,7 @@ Benchmarks:
 | 8192x8192 | 2.39         | 28.10                |
 ---
 
-### A100
+### H100
 
 #### Language: Triton
 Time: 5.89 ms\
